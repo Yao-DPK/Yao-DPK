@@ -2,6 +2,7 @@
 Bonjour , <br>Je suis Yao Konan , Ingénieur Logiciel diplômé de L'Ecole Supérieur D'Ingénieur de Rennes (ESIR).<br>
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/david-konan-2p7yk0902) 
 
@@ -14,7 +15,10 @@ Bonjour , <br>Je suis Yao Konan , Ingénieur Logiciel diplômé de L'Ecole Supé
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yao-DPK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+## Hobbies
+- Basketball
+- Echecs
+- Fortnite
 ---
 [![](https://visitcount.itsvg.in/api?id=Yao-DPK&icon=0&color=0)](https://visitcount.itsvg.in)
 
