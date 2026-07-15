@@ -40,7 +40,6 @@ Bonjour , <br>Je suis Yao Konan , Ingénieur Logiciel diplômé de L'Ecole Supé
 ## Hobbies
 - Basketball
 - Echecs
-- Fortnite
 ---
 [![](https://visitcount.itsvg.in/api?id=Yao-DPK&icon=0&color=0)](https://visitcount.itsvg.in)
 
